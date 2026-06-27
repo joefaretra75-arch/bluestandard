@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420">
+  <defs><linearGradient id="lip" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#24a8ff"/><stop offset="100%" stop-color="#0358c9"/></linearGradient></defs>
+  <rect width="1000" height="420" fill="none"/>
+  <g transform="translate(60 34)">
+    <text x="0" y="134" font-family="Brush Script MT, Segoe Script, cursive" font-size="166" font-weight="700" fill="#0a6fe8" stroke="#062b67" stroke-width="7" paint-order="stroke fill">Blue</text>
+    <text x="20" y="268" font-family="Impact, Arial Black, sans-serif" font-size="116" letter-spacing="1" fill="#062b67" transform="skewX(-7)">STANDARD</text>
+    <g transform="translate(675 44) rotate(-10)">
+      <path d="M40 39 C76 -4 140 1 187 37 C135 55 90 55 40 39Z" fill="url(#lip)"/>
+      <path d="M38 46 C90 81 148 80 190 45 C174 96 69 99 38 46Z" fill="#074fb8"/>
+      <path d="M69 39 C101 27 139 28 168 42" fill="none" stroke="#e8f6ff" stroke-width="6" stroke-linecap="round"/>
+      <path d="M78 65 C105 77 143 76 168 62" fill="none" stroke="#e8f6ff" stroke-width="5" opacity=".65" stroke-linecap="round"/>
+    </g>
+    <rect x="98" y="306" width="610" height="58" rx="16" fill="#0a6fe8"/>
+    <text x="403" y="345" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="3" fill="#ffffff">CREATOR GROWTH AGENCY</text>
+  </g>
+</svg>
